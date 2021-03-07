@@ -12,9 +12,14 @@ ZCZC W00  2 L01 PopQuiz Q05
 
 # WEEK 1
 ZCZC W01 100 L02 ZOOM related
-ZCZC W01 120 L21 download Debian ISO, installing, and guest setup.
 ZCZC W01 20 L13 learn SSH setup to run VBox from WSL.
 ZCZC W01 40 L05 learn bash script basics
-ZCZC W01 30 L11 Create op 10 list.
+ZCZC W01 120 L11 Assignment #1 : download Debian ISO, installing, and guest setup.
+ZCZC W01 30 L12 Assignment #2 : GSGS bash guide.
+ZCZC W01 70 L13 Assignment #3 : install package with ssh, along with ssh setup, login, and logout.
+ZCZC W01 10 L14 Assignment #4 : learn basic bash commands
+ZCZC W01 10 L15 Assignment #5 : setting up git.
+ZCZC W01 10 L16 Assignment #6 : commit mylog change from debian.
+ZCZC W01 150 L17 Assignment #7 : Create top10 Linux related links.
+ZCZC W01 40 L18 Assignment #8 : try/learn more bash,regex,grep,sed,and vim.
 ZCZC W01 20 L03 clone, update mylog & top 10 list, push.
-
