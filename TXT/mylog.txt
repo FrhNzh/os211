@@ -32,3 +32,15 @@ ZCZC W02 15 L18 Assignment #8 : copy myscript.sh
 ZCZC W02 20 L19 Assignment #9 : Update mylog.txt for week 2 assignments
 ZCZC W02 30 L20 Assignment #10 : Sign week2 assignments
 ZCZC W02 20 L05 GSGS gpg public key
+ZCZC W03 100 L02 ZOOM related.
+ZCZC W03 90 L09 AsDos: asking questions regarding changing debian user.
+ZCZC W03 30 L11 Assignment #1 : Read OSC10 chapter 13 - chapter 15.
+ZCZC W03 60 L12 Assignment #2 : Try and learn demo week 3.
+ZCZC W03 20 L13 Assignment #3 : update .bash_aliases file
+ZCZC W03 20 L14 Assignment #4 : Review and pick 3 out of my 10 next closest neighbors.
+ZCZC W03 180 L15 Assignment #5 : Create top10 week 3 (include GSGS)
+ZCZC W03 30 L16 Assignment #6 : Update mylog.txt for week 3 assignments
+ZCZC W03 60 L17 Assignment #7 : Download and create W03.tar.bz2.asc
+ZCZC W03 15 L18 Assignment #8 : Update myscript.sh
+ZCZC W03 20 L19 Assignment #9 : Sign week 3 assignments.
+SCSC W03 30 L05 GSGS import pub key from another user.
