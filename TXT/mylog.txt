@@ -43,4 +43,14 @@ ZCZC W03 30 L16 Assignment #6 : Update mylog.txt for week 3 assignments
 ZCZC W03 60 L17 Assignment #7 : Download and create W03.tar.bz2.asc
 ZCZC W03 15 L18 Assignment #8 : Update myscript.sh
 ZCZC W03 20 L19 Assignment #9 : Sign week 3 assignments.
-SCSC W03 30 L05 GSGS import pub key from another user.
+ZCZC W03 30 L05 GSGS import pub key from another user.
+ZCZC W04 100 L02 ZOOM related.
+ZCZC W04 40 L11 Assignment #1 : Read OSC10 chapter 9.
+ZCZC W04 60 L12 Assignment #2 : Try and learn demo week 4.
+ZCZC W04 50 L13 Assignment #3 : Review, reading the articles, and pick 3 out of my 10 next closest neighbors.
+ZCZC W04 180 L14 Assignment #4 : Create top10 week 3 (including GSGS)
+ZCZC W04 35 L15 Assignment #5 : Update mylog.txt for week 4 assignments
+ZCZC W04 30 L16 Assignment #6 : download and create tarball myW04.tar.bz2.asc
+ZCZC W04 30 L17 Assignment #7 : Update and learn myscript.sh
+ZCZC W04 30 L18 Assignment #8 : Sign week 3 assignments.
+ZCZC W04 20 L05 GSGS memory allocation
