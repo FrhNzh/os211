@@ -64,4 +64,5 @@ ZCZC W05 180 L13 Assignment #3 : Create top10 week 3 (including GSGS)
 ZCZC W05 50 L14 Assignment #4 : download, run, and create tarball from WEEK05.tar.bz2.asc 
 ZCZC W05 15 L15 Assignment #5 : Update mylog
 ZCZC W05 40 L16 Assignment #6 : Update myscript, and sign week 5 assignments.
-ZCZC W05 20 L05 GSGS scp command.
+ZCZC W05 20 L05 GSGS scp command
+ZCZC W05 30 L05 GSGS top.
