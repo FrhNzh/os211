@@ -66,3 +66,12 @@ ZCZC W05 15 L15 Assignment #5 : Update mylog
 ZCZC W05 40 L16 Assignment #6 : Update myscript, and sign week 5 assignments.
 ZCZC W05 20 L05 GSGS scp command
 ZCZC W05 30 L05 GSGS top.
+ZCZC W06 100 L02 ZOOM related.
+ZCZC W06 60 L07 Demo week 6.
+ZCZC W06 30 L05 GSGS OS stuff
+ZCZC W06 60 L11 Assignment #1 : Read OSC10 chapter 3 and 4.
+ZCZC W06 40 L12 Assignment #2 : Review, reading the articles, and pick 3 out of my 10 next closest neighbors.
+ZCZC W06 120 L13 Assignment #3 : Create top10 week 3 (including GSGS)
+ZCZC W06 50 L14 Assignment #4 : download, run, and create tarball from WEEK06.tar.bz2.asc 
+ZCZC W06 15 L15 Assignment #5 : Update mylog
+ZCZC W06 40 L16 Assignment #6 : Update myscript, and sign week 6 assignments.
