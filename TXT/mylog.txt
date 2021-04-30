@@ -75,3 +75,12 @@ ZCZC W06 120 L13 Assignment #3 : Create top10 week 3 (including GSGS)
 ZCZC W06 50 L14 Assignment #4 : download, run, and create tarball from WEEK06.tar.bz2.asc 
 ZCZC W06 15 L15 Assignment #5 : Update mylog
 ZCZC W06 40 L16 Assignment #6 : Update myscript, and sign week 6 assignments.
+ZCZC W07 100 L02 ZOOM related week 7.
+ZCZC W07 40 L07 Demo week 7.
+ZCZC W07 30 L05 GSGS OS stuff
+ZCZC W07 30 L11 Assignment #1 : Read OSC10 chapter 6, 7, and 8.
+ZCZC W07 30 L12 Assignment #2 : Review, reading the articles, and pick 3 out of my 10 next closest neighbors.
+ZCZC W07 120 L13 Assignment #3 : Create top10 week 3 (including GSGS)
+ZCZC W07 70 L14 Assignment #4 : download, run, and create tarball from WEEK06.tar.bz2.asc. Including task on 001-how-to-get-file-WEEK07-REPORT2.txt.
+ZCZC W07 25 L15 Assignment #5 : Update mylog
+ZCZC W07 40 L16 Assignment #6 : Update myscript, and sign week 6 assignments.
