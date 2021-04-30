@@ -17,7 +17,7 @@
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
-REC2="farah.nazihah@ui.ac.id"
+REC2="cbk@dummy"
 REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
@@ -58,3 +58,4 @@ for II in W?? ; do
 				      gpg --verify $SHA.asc $SHA
 
 				      exit 0
+
