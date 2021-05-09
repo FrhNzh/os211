@@ -8,3 +8,4 @@ Operating Systems 2021-1 (Semester Genap 2020/2021)
 * ### [Week 05 Top 10 List](https://frhnzh.github.io/os211/W05/)<br>
 * ### [Week 06 Top 10 List](https://frhnzh.github.io/os211/W06/)<br>
 * ### [Week 07 Top 10 List](https://frhnzh.github.io/os211/W07/)<br>
+* ### [Week 08 Top 10 List](https://frhnzh.github.io/os211/W08/)<br>
